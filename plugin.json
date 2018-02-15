@@ -4,5 +4,5 @@
     "namespace"         :"HelloWorld",
     "author"            :"Mark Hoja",
     "type"              :"template",
-    "serviceProvider"   :null
+    "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
 }
